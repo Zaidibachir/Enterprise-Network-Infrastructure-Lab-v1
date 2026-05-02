@@ -10,6 +10,7 @@ The network was designed to simulate a small-to-medium enterprise environment wi
 ---
 
 # Network Topology
+![Topology](topology.png)
 
 ## Core Components
 - 3 Layer 3 Switches
